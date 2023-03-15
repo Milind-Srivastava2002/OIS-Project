@@ -1,0 +1,88 @@
+.component-1-component {
+  height: 546px;
+  width: 430px;
+}
+
+.component-1-overlap-group {
+  height: 546px;
+  position: relative;
+}
+
+.component-1-rectangle {
+  background: linear-gradient(180deg, rgb(171.06, 171.06, 171.06) 0%, rgb(80.75, 80.75, 80.75) 100%);
+  border-radius: 45px 0px 45px 0px;
+  height: 546px;
+  left: 18px;
+  position: absolute;
+  top: 0;
+  width: 412px;
+}
+
+.component-1-vector {
+  height: 9px;
+  left: 18px;
+  position: absolute;
+  top: 436px;
+  width: 412px;
+}
+
+.component-1-rectangle-19 {
+  background: linear-gradient(180deg, rgb(77.56, 77.56, 77.56) 0%, rgb(60.56, 60.56, 60.56) 100%);
+  border-radius: 45px 0px 45px 0px;
+  height: 66px;
+  left: 18px;
+  position: absolute;
+  top: 0;
+  width: 412px;
+}
+
+.component-1-REGISTER {
+  -webkit-background-clip: text !important;
+  -webkit-text-fill-color: transparent;
+  background: linear-gradient(180deg, rgb(169.37, 232.69, 88.23) 0%, rgb(118.67, 200.81, 13.39) 100%);
+  background-clip: text;
+  color: transparent;
+  font-family: "Inter", Helvetica;
+  font-size: 36px;
+  font-weight: 700;
+  left: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  text-fill-color: transparent;
+  top: 474px;
+  width: 412px;
+}
+
+.component-1-BASEBALL {
+  color: #ffffff;
+  font-family: "Aldrich", Helvetica;
+  font-size: 26px;
+  font-weight: 400;
+  left: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 19px;
+  width: 412px;
+}
+
+.component-1-SOFT {
+  height: 375px;
+  left: 0;
+  position: absolute;
+  top: 66px;
+  width: 375px;
+}
+
+.component-1-rectangle-22 {
+  background-color: #4c4c4c;
+  border-radius: 45px 0px 45px 0px;
+  height: 330px;
+  left: 18px;
+  position: absolute;
+  top: 92px;
+  width: 16px;
+}

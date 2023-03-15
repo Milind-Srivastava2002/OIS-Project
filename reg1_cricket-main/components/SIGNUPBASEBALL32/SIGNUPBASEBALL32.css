@@ -1,0 +1,623 @@
+@import "/styleguide.css";
+
+.sign-up-baseball {
+  align-items: flex-start;
+  background-color: var(--thunder);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 1805px;
+  overflow: hidden;
+  width: 1728px;
+}
+
+.overlap-group8 {
+  height: 1741px;
+  margin-left: -16px;
+  position: relative;
+  width: 1783px;
+}
+
+.overlap-group1 {
+  height: 1741px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1783px;
+}
+
+.rectangle-38 {
+  background-color: var(--heavy-metal);
+  height: 767px;
+  left: 16px;
+  position: absolute;
+  top: 974px;
+  width: 1728px;
+}
+
+.rectangle-52 {
+  background-color: var(--alto-2);
+  height: 701px;
+  left: 850px;
+  position: absolute;
+  top: 1040px;
+  width: 894px;
+}
+
+.rectangle-42 {
+  background-color: var(--woodsmoke);
+  border-radius: 0px 21px 0px 21px;
+  box-shadow: 0px 26px 14px -13px #00000063;
+  height: 66px;
+  left: 0;
+  position: absolute;
+  top: 974px;
+  width: 1783px;
+}
+
+.contact-us {
+  left: 636px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 985px;
+  width: 487px;
+}
+
+.rectangle-43 {
+  background-color: var(--inchworm);
+  height: 12px;
+  left: 1058px;
+  position: absolute;
+  top: 1002px;
+  width: 686px;
+}
+
+.rectangle-44 {
+  background-color: var(--inchworm);
+  height: 12px;
+  left: 16px;
+  position: absolute;
+  top: 1001px;
+  width: 686px;
+}
+
+.rectangle-33 {
+  background-color: var(--woodsmoke);
+  height: 78px;
+  left: 15px;
+  position: absolute;
+  top: 0;
+  width: 1729px;
+}
+
+.rectangle-5 {
+  background-color: var(--inchworm-2);
+  height: 52px;
+  left: 16px;
+  position: absolute;
+  top: 72px;
+  width: 1728px;
+}
+
+.screenshot-2023-01-23-at-832-1 {
+  background-color: transparent;
+  height: 65px;
+  left: 30px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 3px;
+  width: 507px;
+}
+
+.place {
+  left: 355px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 88px;
+}
+
+.the-facility {
+  left: 503px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 88px;
+}
+
+.memberships {
+  left: 693px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 88px;
+}
+
+.batting-cages {
+  left: 896px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 88px;
+}
+
+.programs-events {
+  left: 1103px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 88px;
+}
+
+.contact-us-1 {
+  left: 1348px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 88px;
+}
+
+.rectangle-6 {
+  background-color: var(--black);
+  height: 4px;
+  left: 679px;
+  position: absolute;
+  top: 120px;
+  width: 116px;
+}
+
+.ois {
+  left: 45px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 5px;
+}
+
+.have-a-question-abou {
+  left: 56px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1118px;
+  width: 771px;
+}
+
+.rectangle-45 {
+  background-color: var(--shark);
+  border: 2px solid;
+  border-color: var(--gray);
+  border-radius: 30px;
+  height: 64px;
+  left: 994px;
+  position: absolute;
+  top: 1137px;
+  width: 639px;
+}
+
+.rectangle-49 {
+  background-color: var(--shark);
+  border: 2px solid;
+  border-color: var(--gray);
+  border-radius: 30px;
+  height: 64px;
+  left: 994px;
+  position: absolute;
+  top: 1227px;
+  width: 639px;
+}
+
+.rectangle-50 {
+  background-color: var(--shark);
+  border: 2px solid;
+  border-color: var(--gray);
+  border-radius: 30px;
+  height: 64px;
+  left: 994px;
+  position: absolute;
+  top: 1317px;
+  width: 639px;
+}
+
+.rectangle-48 {
+  background-color: var(--shark);
+  border: 2px solid;
+  border-color: var(--gray);
+  border-radius: 30px;
+  height: 151px;
+  left: 994px;
+  position: absolute;
+  top: 1407px;
+  width: 639px;
+}
+
+.first-name-last-name {
+  left: 1036px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1156px;
+}
+
+.phone-number {
+  left: 1036px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1245px;
+}
+
+.email-address {
+  left: 1036px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1335px;
+}
+
+.message-or-question {
+  left: 1036px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1433px;
+}
+
+.rectangle-51 {
+  background-color: var(--inchworm);
+  height: 65px;
+  left: 1121px;
+  position: absolute;
+  top: 1608px;
+  width: 386px;
+}
+
+.submit {
+  cursor: pointer;
+  left: 1255px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1622px;
+}
+
+.iconsax-linearmessagequestion {
+  height: 311px;
+  left: 243px;
+  position: absolute;
+  top: 1341px;
+  width: 311px;
+}
+
+.iconsax-linearusersquare {
+  height: 30px;
+  left: 1608px;
+  position: absolute;
+  top: 20px;
+  width: 30px;
+}
+
+.eazy {
+  left: 1650px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 22px;
+}
+
+.base-1 {
+  display: block;
+  height: 1045px;
+  left: 85px;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  top: 69px;
+  transform: translate(25px, 0);
+  width: 697px;
+}
+
+.base-1.animate-enter {
+  animation: animate-enter-frames 0.2s ease-in-out 0s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(25px, 0);
+  height: 50%;
+  width: 40%;
+  position: absolute;
+}
+
+#img-cricket{
+  position: relative;
+  margin-top: 70px;
+  width: 68.125em;
+  height:57.8125em;
+  left: -69px;
+}
+
+.sign-up {
+  left: 1150px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 178px;
+}
+
+.overlap-group3 {
+  align-items: flex-start;
+  background-color: var(--tundora);
+  border: 1px solid;
+  border-color: var(--gray-nurse);
+  border-radius: 20px;
+  display: flex;
+  height: 59px;
+  left: 974px;
+  min-width: 562px;
+  padding: 17px 31px;
+  position: absolute;
+  top: 280px;
+}
+
+.first-name-last-name-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 23px;
+  width: 214px;
+}
+
+.overlap-group5 {
+  align-items: flex-start;
+  background-color: var(--tundora);
+  border: 1px solid;
+  border-color: var(--gray-nurse);
+  border-radius: 20px;
+  display: flex;
+  height: 60px;
+  left: 974px;
+  min-width: 562px;
+  padding: 17px 31px;
+  position: absolute;
+  top: 359px;
+}
+
+.dob-mmddyyyy {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 23px;
+  width: 176px;
+}
+
+.overlap-group {
+  align-items: flex-start;
+  background-color: var(--tundora);
+  border: 1px solid;
+  border-color: var(--gray-nurse);
+  border-radius: 20px;
+  display: flex;
+  height: 60px;
+  left: 974px;
+  min-width: 562px;
+  padding: 16px 31px;
+  position: absolute;
+  top: 438px;
+}
+
+.email-address-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 22px;
+  width: 125px;
+}
+
+.overlap-group7 {
+  align-items: flex-start;
+  background-color: var(--tundora);
+  border: 1px solid;
+  border-color: var(--gray-nurse);
+  border-radius: 20px;
+  display: flex;
+  height: 59px;
+  left: 974px;
+  min-width: 562px;
+  padding: 16px 31px;
+  position: absolute;
+  top: 518px;
+}
+
+.mobile-number {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 22px;
+  width: 136px;
+}
+
+.overlap-group4 {
+  align-items: flex-start;
+  background-color: var(--tundora);
+  border: 1px solid;
+  border-color: var(--gray-nurse);
+  border-radius: 20px;
+  display: flex;
+  height: 59px;
+  left: 974px;
+  min-width: 562px;
+  padding: 16px 31px;
+  position: absolute;
+  top: 597px;
+}
+
+.pin-code-only-available-for-baltimore {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 22px;
+  width: 386px;
+}
+
+.i-have-previous-experience-in-baseball {
+  left: 1108px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 693px;
+  width: 332px;
+}
+
+.i-agree-to-the-terms {
+  color: transparent;
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-s);
+  font-weight: 300;
+  left: 1046px;
+  letter-spacing: 1.52px;
+  line-height: normal;
+  position: absolute;
+  top: 758px;
+  width: 473px;
+}
+
+.span-1 {
+  text-decoration: underline;
+}
+
+.rectangle-57 {
+  background-color: var(--concord);
+  height: 19px;
+  left: 1076px;
+  position: absolute;
+  top: 694px;
+  width: 19px;
+}
+
+.rectangle-59 {
+  background-color: var(--concord);
+  height: 19px;
+  left: 1014px;
+  position: absolute;
+  top: 759px;
+  width: 19px;
+}
+
+.overlap-group2 {
+  height: 59px;
+  left: 1079px;
+  position: absolute;
+  top: 828px;
+  width: 350px;
+}
+
+.rectangle-60 {
+  background-color: var(--inchworm);
+  cursor: pointer;
+  height: 59px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 350px;
+}
+
+.lets-go {
+  color: var(--black);
+  cursor: pointer;
+  font-family: var(--font-family-inter);
+  font-size: 26px;
+  font-weight: 700;
+  letter-spacing: -1.17px;
+  line-height: normal;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  background: transparent;
+}
+
+.overlap-group6 {
+  align-items: flex-start;
+  background-color: var(--woodsmoke);
+  display: flex;
+  height: 64px;
+  min-width: 1728px;
+  padding: 3px 627px;
+}
+
+.x2023-olympic-indoo {
+  letter-spacing: 0;
+  line-height: 18px;
+  min-height: 36px;
+}
+
+@keyframes animate-enter-frames {
+  from {
+    opacity: 0;
+    transform: translate(25px, 0);
+  }
+  to {
+    opacity: 1;
+    transform: translate(0, 0);
+  }
+}
+
+.overlap-group3::placeholder {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 23px;
+  width: 214px;
+  color: white;
+  font-family: "Inter", Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 300;
+}
+
+.overlap-group5::placeholder {
+  color: white;
+  font-family: "Inter", Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 23px;
+  width: 176px;
+}
+
+.overlap-group::placeholder {
+  color: white;
+  font-family: "Inter", Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 22px;
+  width: 125px;
+}
+
+.overlap-group7::placeholder {
+  color: white;
+  font-family: "Inter", Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 22px;
+  width: 136px;
+}
+
+.overlap-group4::placeholder {
+  color: white;
+  font-family: "Inter", Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 22px;
+  width: 386px;
+}
+
+input:focus {
+  background-color: transparent;
+}

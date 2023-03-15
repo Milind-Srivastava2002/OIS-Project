@@ -1,0 +1,145 @@
+.html {
+  background-color: #212126;
+  width: 100vw;
+  overflow-x: hidden;
+}
+
+.NAV-BAR-NAV-BAR {
+  height: 124px;
+  width: 1687px;
+  position: absolute;
+}
+
+.NAV-BAR-overlap-group {
+  height: 124px;
+  width: 1687px;
+  position: relative;
+}
+
+.NAV-BAR-rectangle {
+  background-color: #0f0f0f;
+  height: 78px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1687px;
+}
+
+.NAV-BAR-rectangle-5 {
+  background-color: #b7ff5d;
+  height: 52px;
+  left: 1px;
+  position: absolute;
+  top: 72px;
+  width: 1687px;
+}
+
+.NAV-BAR-home {
+  color: #000000;
+  font-family: "Akshar", Helvetica;
+  font-size: 17px;
+  font-weight: 400;
+  left: 355px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 89px;
+}
+
+.NAV-BAR-the-facility {
+  color: #000000;
+  font-family: "Akshar", Helvetica;
+  font-size: 17px;
+  font-weight: 400;
+  left: 503px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 89px;
+}
+
+.NAV-BAR-memberships {
+  color: #000000;
+  font-family: "Akshar", Helvetica;
+  font-size: 17px;
+  font-weight: 400;
+  left: 693px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 89px;
+}
+
+.NAV-BAR-batting-cages {
+  color: #000000;
+  font-family: "Akshar", Helvetica;
+  font-size: 17px;
+  font-weight: 400;
+  left: 896px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 89px;
+}
+
+.NAV-BAR-programs-events {
+  color: #000000;
+  font-family: "Akshar", Helvetica;
+  font-size: 17px;
+  font-weight: 400;
+  left: 1103px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 89px;
+}
+
+.NAV-BAR-contact-us {
+  color: #000000;
+  font-family: "Akshar", Helvetica;
+  font-size: 17px;
+  font-weight: 400;
+  left: 1348px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 89px;
+}
+
+.NAV-BAR-rectangle-6 {
+  background-color: #000000;
+  height: 4px;
+  left: 679px;
+  position: absolute;
+  top: 120px;
+  width: 116px;
+}
+
+.NAV-BAR-iconsax-linear-usersquare {
+  height: 30px;
+  left: 1550px;
+  position: absolute;
+  top: 20px;
+  width: 30px;
+}
+
+.NAV-BAR-SIGN-UP {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 21px;
+  font-weight: 700;
+  left: 1590px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 22px;
+}
+
+.NAV-BAR-OLYMPICLOGO {
+  height: 65px;
+  left: 30px;
+  object-fit: cover;
+  position: absolute;
+  top: 3px;
+  width: 507px;
+}

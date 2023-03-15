@@ -1,0 +1,78 @@
+.coursel{
+    display: flex;
+    background-image: url("https://anima-uploads.s3.amazonaws.com/projects/636e8b12dd63d44d26a503cc/releases/63d65ca7911c74820293a1ec/img/professional-baseball-players-1.png");
+    background-color: rgba(0,0,0,0.6);
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-blend-mode: multiply;
+    height: 37.5em;
+    width: 100%;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.coursel .container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80%;
+    width: 25%;
+}
+
+.coursel .container a{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+}
+
+.coursel .container .off{
+    height: 80%;
+    width: 80%;
+}
+
+.coursel .container .on{
+    height: 80%;
+    width: 80%;
+    transition: transform 400ms;
+}
+
+.coursel .container .on:hover{
+    transform: scale(1.1,1.1);
+    /* height: 100%;
+    width: 100%; */
+}
+
+@media(max-width:870px){
+    .coursel{
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        height: 50em;
+    }
+
+    .coursel .container{
+        height: 30%;
+        width: 40%;
+    }
+}
+
+@media(max-width:500px){
+    .coursel{
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        height: 60em;
+    }
+
+    .coursel .container{
+        height: 30%;
+        width: 50%;
+    }
+}
+
+
+

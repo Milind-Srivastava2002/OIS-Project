@@ -1,0 +1,88 @@
+:root {
+    --dark-background: #0F0F0F;
+    --light-background: #585858;
+    --green: #b8ff5d;
+}
+
+.ticker-body{
+    display: flex;
+    margin: 0;
+    width: 100%;
+    justify-content: space-between;
+    height: 3rem;
+    background-color: var(--light-background);
+    align-items: center;
+}
+
+.ticker-body .left {
+    width: 39%;
+    height: 80%;
+    background-color: var(--dark-background);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 0 15px 0 0;
+    z-index: 100;
+}
+
+.ticker-body .whatwedo{
+    color: white;
+    font-size: 0.75rem;
+    font-weight: bold;
+}
+
+.ticker-body .rectangle-9{
+    width: 70%;
+    background-color: var(--green);
+    margin: 0 0 0 10px;
+    height: 12px;
+    left: 0;
+}
+
+.ticker-body .right{
+    width: 59%;
+    height: 80%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.ticker-body .right img{
+    border-radius: 15px 0 0 0;
+    width: 100%;
+    height: 100%;
+}
+
+@media (max-width: 870px){
+    .ticker-body{
+        flex-direction: column;
+        height: fit-content;
+        align-items: start;
+    }
+
+    .ticker-body .left{
+        justify-content: center;
+        width: 70%;
+        height: 30px;
+    }
+    .ticker-body .right{
+        width: 100%;
+    }
+    .ticker-body .right img{
+        border-radius: 0;
+    }
+
+}
+
+@media (max-width: 500px) {
+    .ticker-body .left{
+        display: none;
+    }
+    .ticker-body .right{
+        width: 100%;
+        height: 30px;
+    }
+    .ticker-body .right img{
+        border-radius: 0;
+    }
+}

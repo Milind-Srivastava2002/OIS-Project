@@ -1,0 +1,127 @@
+:root { 
+  --alto-2: #d9d9d921;
+  --black: #000000;
+  --celeste-3: #d0d0d0;
+  --concord: #7b7b7b;
+  --dodger-blue: #2fa9ff;
+  --gray: #7e7e7e;
+  --gray-nickel: #c3c3c3;
+  --gray-nurse: #e8e8e8;
+  --heavy-metal: #2b2b2b;
+  --inchworm: #b8ff5d;
+  --inchworm-2: #b7ff5d;
+  --shark: #252424;
+  --thunder: #2e2e2e;
+  --tundora: #444444;
+  --white: #ffffff;
+  --woodsmoke: #0f0f0f;
+ 
+  --font-size-l2: 20px;
+  --font-size-m2: 18px;
+  --font-size-s: 16px;
+  --font-size-s2: 15px;
+  --font-size-xl2: 19px;
+  --font-size-xxl: 46px;
+  --font-size-xxxl: 54px;
+ 
+  --font-family-akshar: "Akshar", Helvetica;
+  --font-family-chakra_petch: "Chakra Petch", Helvetica;
+  --font-family-coda: "Coda", Helvetica;
+  --font-family-do_hyeon: "Do Hyeon", Helvetica;
+  --font-family-inter: "Inter", Helvetica;
+}
+.akshar-normal-black-19px {
+  color: var(--black);
+  font-family: var(--font-family-akshar);
+  font-size: var(--font-size-xl2);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.inter-light-white-18px {
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m2);
+  font-style: normal;
+  font-weight: 300;
+}
+
+.inter-light-gray-nickel-20px {
+  color: var(--gray-nickel);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-l2);
+  font-style: normal;
+  font-weight: 300;
+}
+
+.inter-light-dodger-blue-16px {
+  color: var(--dodger-blue);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 300;
+}
+
+.inter-light-gray-nurse-16px {
+  color: var(--gray-nurse);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 300;
+}
+
+.dohyeon-normal-white-37px {
+  color: var(--white);
+  font-family: var(--font-family-do_hyeon);
+  font-size: 37px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.coda-extra-bold-inchworm-46px {
+  color: var(--inchworm);
+  font-family: var(--font-family-coda);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 800;
+}
+
+.dohyeon-normal-celeste-54px {
+  color: var(--celeste-3);
+  font-family: var(--font-family-do_hyeon);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.inter-bold-black-30px {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.inter-bold-white-21px {
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.inter-bold-white-46px {
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.chakrapetch-normal-white-15px {
+  color: var(--white);
+  font-family: var(--font-family-chakra_petch);
+  font-size: var(--font-size-s2);
+  font-style: normal;
+  font-weight: 400;
+}
