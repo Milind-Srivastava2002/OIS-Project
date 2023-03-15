@@ -1,0 +1,676 @@
+.COMING-SOON-COMING-SOON-wrapper {
+  background-color: #2b2b2b;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.COMING-SOON-COMING-SOON {
+  background-color: #2b2b2b;
+  border: 1px none;
+  height: 1914px;
+  overflow: hidden;
+  position: relative;
+  width: 1728px;
+}
+
+.COMING-SOON-overlap {
+  height: 708px;
+  left: 0;
+  position: absolute;
+  top: 808px;
+  width: 1728px;
+}
+
+.COMING-SOON-overlap-group2 {
+  height: 708px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1728px;
+}
+
+.COMING-SOON-rectangle {
+  background-color: #d9d9d921;
+  height: 701px;
+  left: 834px;
+  position: absolute;
+  top: 0;
+  width: 894px;
+}
+
+.COMING-SOON-rectangle-45 {
+  background-color: #252424;
+  border: 2px solid;
+  border-color: #7e7e7e;
+  border-radius: 30px;
+  height: 64px;
+  left: 978px;
+  position: absolute;
+  top: 97px;
+  width: 639px;
+}
+
+.COMING-SOON-rectangle-49 {
+  background-color: #252424;
+  border: 2px solid;
+  border-color: #7e7e7e;
+  border-radius: 30px;
+  height: 64px;
+  left: 978px;
+  position: absolute;
+  top: 187px;
+  width: 639px;
+}
+
+.COMING-SOON-rectangle-50 {
+  background-color: #252424;
+  border: 2px solid;
+  border-color: #7e7e7e;
+  border-radius: 30px;
+  height: 64px;
+  left: 978px;
+  position: absolute;
+  top: 277px;
+  width: 639px;
+}
+
+.COMING-SOON-rectangle-48 {
+  background-color: #252424;
+  border: 2px solid;
+  border-color: #7e7e7e;
+  border-radius: 30px;
+  height: 151px;
+  left: 978px;
+  position: absolute;
+  top: 367px;
+  width: 639px;
+}
+
+.COMING-SOON-first-name-last-name {
+  color: #c3c3c3;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 300;
+  left: 1020px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 116px;
+}
+
+.COMING-SOON-phone-number {
+  color: #c3c3c3;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 300;
+  left: 1020px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 205px;
+}
+
+.COMING-SOON-email-address {
+  color: #c3c3c3;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 300;
+  left: 1020px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 295px;
+}
+
+.COMING-SOON-message-or-question {
+  color: #c3c3c3;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 300;
+  left: 1020px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 393px;
+}
+
+.COMING-SOON-rectangle-51 {
+  background-color: #b8ff5d;
+  height: 65px;
+  left: 1105px;
+  position: absolute;
+  top: 568px;
+  width: 386px;
+}
+
+.COMING-SOON-SUBMIT {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 30px;
+  font-weight: 700;
+  left: 1239px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 582px;
+}
+
+.COMING-SOON-rectangle-68 {
+  background-color: #b8ff5d;
+  height: 8px;
+  left: 0;
+  position: absolute;
+  top: 700px;
+  width: 1728px;
+}
+
+.COMING-SOON-got-questions-we-will-love-to-hear-them {
+  color: transparent;
+  font-family: "Do Hyeon", Helvetica;
+  font-size: 94px;
+  font-weight: 400;
+  left: 80px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 77px;
+  width: 615px;
+}
+
+.COMING-SOON-text-wrapper {
+  color: #b8ff5d;
+}
+
+.COMING-SOON-span {
+  color: #d0d0d0;
+  font-size: 54px;
+}
+
+.COMING-SOON-iconsax-linear-messagequestion {
+  height: 311px;
+  left: 227px;
+  position: absolute;
+  top: 301px;
+  width: 311px;
+}
+
+.COMING-SOON-overlap-group4 {
+  height: 709px;
+  left: -16px;
+  position: absolute;
+  top: 99px;
+  width: 1783px;
+}
+
+.COMING-SOON-rectangle-42 {
+  background-color: #0f0f0f;
+  border-radius: 0px 21px 0px 21px;
+  box-shadow: 0px 26px 14px -13px #00000063;
+  height: 66px;
+  left: 0;
+  position: absolute;
+  top: 643px;
+  width: 1783px;
+}
+
+.COMING-SOON-CONTACT-US {
+  color: #ffffff;
+  font-family: "Do Hyeon", Helvetica;
+  font-size: 37px;
+  font-weight: 400;
+  left: 636px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 654px;
+  width: 487px;
+}
+
+.COMING-SOON-rectangle-43 {
+  background-color: #b8ff5d;
+  height: 12px;
+  left: 1058px;
+  position: absolute;
+  top: 671px;
+  width: 686px;
+}
+
+.COMING-SOON-rectangle-44 {
+  background-color: #b8ff5d;
+  height: 12px;
+  left: 16px;
+  position: absolute;
+  top: 670px;
+  width: 686px;
+}
+
+.COMING-SOON-LOGOEMBLEM {
+  height: 681px;
+  left: 539px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 681px;
+}
+
+.COMING-SOON-h-1 {
+  color: #b7ff5d;
+  font-family: "Inter", Helvetica;
+  font-size: 137px;
+  font-weight: 800;
+  left: 347px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 213px;
+}
+
+.COMING-SOON-overlap-group3 {
+  background-color: #0f0f0f;
+  height: 64px;
+  left: 0;
+  position: absolute;
+  top: 1850px;
+  width: 1728px;
+}
+
+.COMING-SOON-element-olympic-indoor-sports-powered-by-eazy-eyez-entertainment {
+  color: #ffffff;
+  font-family: "Chakra Petch", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 627px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 7px;
+}
+
+.COMING-SOON-overlap-group5 {
+  background-color: #1a1a1a;
+  height: 334px;
+  left: 0;
+  position: absolute;
+  top: 1516px;
+  width: 1728px;
+}
+
+.COMING-SOON-olympic-indoor-sports-a-game-changing-platform-for-young-athletes-in-maryland-to-step-up-and-show-off-their-skills-in-sports-such-as-baseball-softball-cricket-and-lacrosse-our-mission-is-to-provide-a-comprehensive-space-where-these-young-rising-stars-can-take-a-swing-at-their-athletic-aspirations-and-score-big-in-the-game-of-life-we-re-proud-to-be-the-home-plate-for-the-future-generation-of-american-sports-and-we-hope-to-establish-a-precedent-for-other-players-in-the-industry-so-come-on-over-join-the-team-and-let-s-play-ball {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 46px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 94px;
+  width: 514px;
+}
+
+.COMING-SOON-the-facility {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 687px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 121px;
+  width: 69px;
+}
+
+.COMING-SOON-olympic-indoor-sports-red-branch-rd-suite-a-columbia-MD {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 847px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 121px;
+  width: 168px;
+}
+
+.COMING-SOON-text-wrapper-2 {
+  font-weight: 900;
+}
+
+.COMING-SOON-text-wrapper-3 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.COMING-SOON-element-AM-EST-PM-EST-from-monday-to-sunday-you-will-receive-a-prompt-response-from-our-team-within-hours {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 1072px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 121px;
+  width: 262px;
+}
+
+.COMING-SOON-text-wrapper-4 {
+  font-weight: 700;
+}
+
+.COMING-SOON-overlap-group6 {
+  height: 277px;
+  left: 1388px;
+  position: absolute;
+  top: 37px;
+  width: 319px;
+}
+
+.COMING-SOON-email-info-olympicindoorsports-com-phone {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 3px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 84px;
+  width: 262px;
+}
+
+.COMING-SOON-group {
+  cursor: pointer;
+  height: 35px;
+  left: 0;
+  position: absolute;
+  top: 130px;
+  transition: all 0.2s ease;
+  width: 142px;
+}
+
+.COMING-SOON-overlap-group {
+  background: linear-gradient(
+    180deg,
+    rgb(255, 247, 32) 0%,
+    rgb(60, 213, 0) 100%
+  );
+  height: 35px;
+  position: relative;
+  width: 140px;
+}
+
+.COMING-SOON-learn-more {
+  color: #020202;
+  font-family: "Inter", Helvetica;
+  font-size: 13px;
+  font-weight: 700;
+  left: 34px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 10px;
+  width: 74px;
+}
+
+.COMING-SOON-LOGOEMBLEM-1 {
+  height: 277px;
+  left: 42px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 277px;
+}
+
+.COMING-SOON-div {
+  color: #b8ff5d;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 900;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 57px;
+}
+
+.COMING-SOON-memberships {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 687px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 145px;
+  width: 87px;
+}
+
+.COMING-SOON-batting-cages {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 687px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 169px;
+  width: 87px;
+}
+
+.COMING-SOON-programs-events {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 687px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 193px;
+  width: 114px;
+}
+
+.COMING-SOON-contact-us {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 687px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 217px;
+  width: 114px;
+}
+
+.COMING-SOON-QUICK-LINKS {
+  color: #b8ff5d;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 900;
+  left: 681px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 94px;
+}
+
+.COMING-SOON-LOCATION {
+  color: #b8ff5d;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 900;
+  left: 844px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 94px;
+}
+
+.COMING-SOON-TIMINGS {
+  color: #b8ff5d;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 900;
+  left: 1069px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 94px;
+}
+
+.COMING-SOON-WE-ARE-BRINGIN-SOMETHING-AWESOME-YOUR-WAY {
+  color: #ffffff;
+  font-family: "Akshar", Helvetica;
+  font-size: 37px;
+  font-weight: 400;
+  left: 523px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  top: 505px;
+}
+
+.COMING-SOON-NAV-BAR {
+  height: 124px;
+  left: 0;
+  position: fixed;
+  top: 0;
+  width: 1728px;
+}
+
+.COMING-SOON-overlap-group1 {
+  height: 124px;
+  position: relative;
+}
+
+.COMING-SOON-rectangle-33 {
+  background-color: #0f0f0f;
+  height: 78px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1728px;
+}
+
+.COMING-SOON-rectangle-5 {
+  background-color: #b7ff5d;
+  height: 52px;
+  left: 1px;
+  position: absolute;
+  top: 72px;
+  width: 1727px;
+}
+
+.COMING-SOON-home {
+  color: #000000;
+  cursor: pointer;
+  font-family: "Akshar", Helvetica;
+  font-size: 17px;
+  font-weight: 400;
+  left: 399px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 89px;
+}
+
+.COMING-SOON-the-facility-2 {
+  color: #000000;
+  font-family: "Akshar", Helvetica;
+  font-size: 17px;
+  font-weight: 400;
+  left: 535px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 89px;
+}
+
+.COMING-SOON-memberships-2 {
+  color: #000000;
+  font-family: "Akshar", Helvetica;
+  font-size: 17px;
+  font-weight: 400;
+  left: 703px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 89px;
+}
+
+.COMING-SOON-batting-cages-2 {
+  color: #000000;
+  font-family: "Akshar", Helvetica;
+  font-size: 17px;
+  font-weight: 400;
+  left: 880px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 89px;
+}
+
+.COMING-SOON-programs-events-2 {
+  color: #000000;
+  font-family: "Akshar", Helvetica;
+  font-size: 17px;
+  font-weight: 400;
+  left: 1060px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 89px;
+}
+
+.COMING-SOON-contact-us-2 {
+  color: #000000;
+  font-family: "Akshar", Helvetica;
+  font-size: 17px;
+  font-weight: 400;
+  left: 1268px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 89px;
+}
+
+.COMING-SOON-iconsax-linear-usersquare {
+  height: 30px;
+  left: 1563px;
+  position: absolute;
+  top: 20px;
+  width: 30px;
+}
+
+.COMING-SOON-SIGN-UP {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 21px;
+  font-weight: 700;
+  left: 1605px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 22px;
+}
+
+.COMING-SOON-OLYMPICLOGO {
+  height: 65px;
+  left: 30px;
+  object-fit: cover;
+  position: absolute;
+  top: 3px;
+  width: 507px;
+}
